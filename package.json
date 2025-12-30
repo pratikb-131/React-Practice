@@ -1,0 +1,31 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "React Practice",
+  "keywords": [
+    "learing",
+    "in",
+    "depth"
+  ],
+  "homepage": "https://github.com/pratikb-131/React-Practice#readme",
+  "bugs": {
+    "url": "https://github.com/pratikb-131/React-Practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikb-131/React-Practice.git"
+  },
+  "license": "ISC",
+  "author": "Pratik Great Software Developer",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
